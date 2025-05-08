@@ -1,0 +1,6 @@
+path: /Users/edwig/Documents/Workspace/Robotics/intelligents/parking-management-system/parking-management-system/dataset
+train: /Users/edwig/Documents/Workspace/Robotics/intelligents/parking-management-system/parking-management-system/dataset/train/images
+val: /Users/edwig/Documents/Workspace/Robotics/intelligents/parking-management-system/parking-management-system/dataset/val/images
+
+names:
+  0: license_plate
